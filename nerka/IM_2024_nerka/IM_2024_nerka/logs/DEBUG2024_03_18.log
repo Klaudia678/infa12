@@ -1,0 +1,37 @@
+2024-03-18 18:25:13,682 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:25:14,189 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.503 s
+2024-03-18 18:27:25,324 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:27:25,886 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.559 s
+2024-03-18 18:28:00,050 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:28:00,538 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.484 s
+2024-03-18 18:28:45,216 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:28:45,698 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.480 s
+2024-03-18 18:31:14,183 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:31:14,940 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.755 s
+2024-03-18 18:31:44,372 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:31:45,092 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.718 s
+2024-03-18 18:32:10,976 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:32:11,757 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.779 s
+2024-03-18 18:32:23,384 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:32:24,164 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.779 s
+2024-03-18 18:32:58,704 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:32:59,355 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.650 s
+2024-03-18 18:32:59,357 — root — DEBUG — <module>:5 — EdgeData(relative_angle=None, length=5.796462054430233, thickness=50.0, generation=1, end_to_end_length=5.830951894845301)
+2024-03-18 18:32:59,369 — root — DEBUG — <module>:8 — 24.97448524542441
+2024-03-18 18:33:23,908 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:33:24,657 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.746 s
+2024-03-18 18:33:24,659 — root — DEBUG — <module>:5 — EdgeData(relative_angle=None, length=5.796462054430233, thickness=50.0, generation=1, end_to_end_length=5.830951894845301)
+2024-03-18 18:33:57,181 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:33:58,139 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.958 s
+2024-03-18 18:33:58,141 — root — DEBUG — <module>:5 — EdgeData(relative_angle=None, length=5.796462054430233, thickness=50.0, generation=1, end_to_end_length=5.830951894845301)
+2024-03-18 18:33:58,143 — root — DEBUG — <module>:6 — dict_keys(['voxels', 'thickness_list', 'mean_thickness', 'length', 'start_direction', 'end_direction', 'relative_angle', 'tortuosity', 'voxels2d', 'symmetry_divergence_angle', 'distance_from_root', 'scaled_distance_from_root', 'absolute_distance', 'scaled_absolute_distance', 'centroid', 'interstitial_distance'])
+2024-03-18 18:33:58,158 — root — DEBUG — <module>:9 — 24.97448524542441
+2024-03-18 18:49:39,402 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:49:40,030 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.627 s
+2024-03-18 18:49:40,043 — root — DEBUG — <module>:9 — (1031, 571, 1546)
+2024-03-18 18:49:40,044 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:49:40,216 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.173 s
+2024-03-18 18:49:40,222 — root — DEBUG — <module>:9 — (1061, 713, 1258)
+2024-03-18 18:49:40,222 — root — DEBUG — execution_tracer:40 — Function Reader.load_data started.
+2024-03-18 18:49:40,478 — root — DEBUG — execution_tracer:43 — Function Reader.load_data ended. Execution time: 0.254 s
+2024-03-18 18:49:40,483 — root — DEBUG — <module>:9 — (1089, 980, 1317)
