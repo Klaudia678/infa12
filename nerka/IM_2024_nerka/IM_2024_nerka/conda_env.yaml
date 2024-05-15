@@ -22,7 +22,7 @@ dependencies:
   - brotli-bin=1.1.0=hcfcfb64_1
   - brotli-python=1.1.0=py311h12c1d0e_1
   - bzip2=1.0.8=hcfcfb64_5
-  - c-blosc2=2.13.2=h183a6f4_0
+  - c-blosc2>=2.10.2,<2.14
   - ca-certificates=2024.2.2=h56e8100_0
   - cached-property=1.5.2=hd8ed1ab_1
   - cached_property=1.5.2=pyha770c72_1
